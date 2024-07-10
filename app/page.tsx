@@ -15,11 +15,11 @@ export default function Page() {
           <div className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"/>
 
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
-            <strong>Welcome to Acme.</strong> This is the example for the{' '}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+            <strong>Welcome to my test Dashboard.</strong> This is through the guidance of{' '}
+            <a href="https://nextjs.org/docs" className="text-blue-500">
+              Next.js documentation.
             </a>
-            , brought to you by Vercel.
+            , kudos to Vercel for the free deployment
           </p>
           <Link
             href="/login"
